@@ -1,1 +1,2 @@
-# hello-word
+# Nurul-Hakiki
+Disini kami belajar github
